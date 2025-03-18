@@ -1,3 +1,0 @@
-C:\Users\nebanfic\source\repos\ConsoleApplication1\x64\Debug\onnxruntime.dll
-C:\Users\nebanfic\source\repos\ConsoleApplication1\x64\Debug\DirectML.dll
-C:\Users\nebanfic\source\repos\ConsoleApplication1\x64\Debug\DirectML.pdb
